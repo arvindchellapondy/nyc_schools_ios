@@ -26,16 +26,19 @@
       "size" : "40x40"
     },
     {
+      "filename" : "schools_nyc_icon_2x-1.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "40x40"
     },
     {
+      "filename" : "schools_nyc_icon_2x.png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "60x60"
     },
     {
+      "filename" : "schools_nyc_icon_3x.png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "60x60"
